@@ -21,6 +21,7 @@ CSS: For custom styling and responsive design.
 
 React Router DOM: Used for handling routing and navigation within the application.
 
+
 Getting Started :
 
 Clone the repo and install the dependencies:
