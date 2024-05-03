@@ -16,7 +16,9 @@ Favorites and Watchlist: Users can easily mark movies as favorites and add them 
 Technologies Used :
 
 React.js: For building a dynamic and responsive front-end.
+
 CSS: For custom styling and responsive design.
+
 React Router DOM: Used for handling routing and navigation within the application.
 
 Getting Started :
