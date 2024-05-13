@@ -19,3 +19,12 @@ Favorites and Watchlist: Users can easily mark movies as favorites and add them 
 - CSS: For custom styling and responsive design.
 - React Router DOM: Used for handling routing and navigation within the application.
 
+## Application Screenshots
+
+
+![Page](./assets/4.png)
+---
+![Page](./assets/5.png)
+---
+![Page](./assets/6.png)
+
