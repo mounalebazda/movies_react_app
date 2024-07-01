@@ -8,10 +8,10 @@ StreamIT is a user-friendly web application designed for movie enthusiasts who l
 
 # Key Features  :
 
-Movie Exploration: Dive into a vast collection of movie genres and titles, all available at your fingertips.
-Interactive UI: A clean and responsive user interface that ensures a smooth navigation experience across the app.
-Local Movie Data Storage: Utilizes local files for storing movie data, ensuring quick access and reliability without the need for external database dependencies.
-Favorites and Watchlist: Users can easily mark movies as favorites and add them to their watchlist for future viewing.
+- Movie Exploration: Dive into a vast collection of movie genres and titles, all available at your fingertips.
+- Interactive UI: A clean and responsive user interface that ensures a smooth navigation experience across the app.
+- Local Movie Data Storage: Utilizes local files for storing movie data, ensuring quick access and reliability without the need for external database dependencies.
+- Favorites and Watchlist: Users can easily mark movies as favorites and add them to their watchlist for future viewing.
 
 # Technologies Used :
 
